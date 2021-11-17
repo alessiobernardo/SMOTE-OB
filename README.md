@@ -44,3 +44,5 @@ from(bucket: "bucket_name")
 ```  
 
 Finally, we averaged the results over the `10` repetitions of all the models tested, and we used those results to apply the Nemeyi test.
+
+The original paper is in print at the IEEE BigData 2021 conference. You can find the pre-print version [here](https://www.researchgate.net/publication/356287208_SMOTE-OB_Combining_SMOTE_and_Online_Bagging_for_Continuous_Rebalancing_of_Evolving_Data_Streams#:~:text=10.13140/RG.2.2.35335.32165):
