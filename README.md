@@ -48,4 +48,4 @@ Finally, we averaged the results over the `10` repetitions of all the models tes
 ## Citing SMOTE-OB
 If you want to refer to SMOTE-OB in a publication, please cite the following paper:
 
-> Bernardo, Alessio, and Emanuele Della Valle. "SMOTE-OB: Combining SMOTE and Online Bagging for Continuous Rebalancing of Evolving Data Streams." 2021 IEEE International Conference on Big Data (Big Data). IEEE, 2021. DOI: 10.1109/BigData52589.2021.9671609
+> Bernardo, Alessio, and Emanuele Della Valle. "SMOTE-OB: Combining SMOTE and Online Bagging for Continuous Rebalancing of Evolving Data Streams." 2021 IEEE International Conference on Big Data (Big Data). IEEE, 2021. DOI: 10.1109/BigData52589.2021.9671609, https://ieeexplore.ieee.org/iel7/9671263/9671273/09671609.pdf
